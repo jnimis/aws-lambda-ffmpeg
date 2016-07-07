@@ -1,10 +1,10 @@
 {
-	"videoMaxWidth": 320,
-	"videoMaxDuration": 60,
-	"functionBucket": "function-bucket",
-	"sourceBucket": "source-bucket",
-	"destinationBucket": "destination-bucket",
-	"linkPrefix": "http://my.site/",
+	"videoMaxWidth": 640,
+	"videoMaxDuration": 200,
+	"functionBucket": "cornercam",
+	"sourceBucket": "cornercam-incoming",
+	"destinationBucket": "cornercam",
+	"linkPrefix": "http://cornercam.net/",
 	"gzip": false,
 	"format": {
 		"image": {
